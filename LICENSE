@@ -1,0 +1,31 @@
+vibe-mistral-mcp — dual license with a commercial option
+=========================================================
+
+Copyright (c) 2026 Dan Alec
+
+You may use this project under the terms of ANY ONE of the following, at your
+option:
+
+  1. MIT License                — see LICENSE-MIT
+  2. Apache License, Version 2.0 — see LICENSE-APACHE-2.0
+  3. Commercial License         — see LICENSE-COMMERCIAL.md
+
+The open-source options (MIT or Apache-2.0) require no purchase, no approval
+and no paperwork. The commercial option exists for organizations that cannot
+adopt a copyleft-free open-source license, or that need terms the open-source
+licenses do not offer.
+
+Nothing in this file changes the terms of the licenses themselves. The texts in
+LICENSE-MIT and LICENSE-APACHE-2.0 are the complete and authoritative terms of
+those options; LICENSE-COMMERCIAL.md summarizes the commercial option and
+points at the agreement that governs it.
+
+SPDX-License-Identifier: MIT OR Apache-2.0
+
+Trademarks
+----------
+
+The names of the upstream projects referenced by this project (Mistral, Vibe,
+DeepSeek Harness, ACP) belong to their respective owners and are used only to
+describe what this project talks to. This license grants no rights to those
+names or marks.
