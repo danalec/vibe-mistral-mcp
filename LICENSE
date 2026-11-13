@@ -1,5 +1,5 @@
-vibe-mistral-mcp — dual license with a commercial option
-=========================================================
+vibe-mistral-mcp — dual license
+================================
 
 Copyright (c) 2026 Dan Alec
 
@@ -8,19 +8,22 @@ option:
 
   1. MIT License                — see LICENSE-MIT
   2. Apache License, Version 2.0 — see LICENSE-APACHE-2.0
-  3. Commercial License         — see LICENSE-COMMERCIAL.md
 
-The open-source options (MIT or Apache-2.0) require no purchase, no approval
-and no paperwork. The commercial option exists for organizations that cannot
-adopt a copyleft-free open-source license, or that need terms the open-source
-licenses do not offer.
-
-Nothing in this file changes the terms of the licenses themselves. The texts in
-LICENSE-MIT and LICENSE-APACHE-2.0 are the complete and authoritative terms of
-those options; LICENSE-COMMERCIAL.md summarizes the commercial option and
-points at the agreement that governs it.
+Both options are complete and free on their own terms: no purchase, no
+approval, no paperwork. Nothing in this file changes the terms of the
+licenses themselves. The texts in LICENSE-MIT and LICENSE-APACHE-2.0 are the
+complete and authoritative terms of those options.
 
 SPDX-License-Identifier: MIT OR Apache-2.0
+
+Apache-2.0 is the better fit for corporate redistribution: besides the broad
+copyright license, it grants a patent license (section 3) that terminates if
+you initiate patent litigation against the copyright holder. MIT is the more
+permissive of the two: shorter, no express patent grant, no NOTICE file.
+
+Support, warranties and indemnification are not granted by either license.
+They are a separate agreement with the copyright holder, not a third license
+option.
 
 Trademarks
 ----------

@@ -262,16 +262,22 @@ that names a private host.
 
 ## License
 
-Dual license with a commercial option — see [LICENSE](LICENSE):
+Dual license, at your option — see [LICENSE](LICENSE):
 
 - **MIT** ([LICENSE-MIT](LICENSE-MIT)) or
-- **Apache License 2.0** ([LICENSE-APACHE-2.0](LICENSE-APACHE-2.0)), or
-- **Commercial** ([LICENSE-COMMERCIAL.md](LICENSE-COMMERCIAL.md)), for organizations that
-  cannot adopt an open-source license or need terms the open-source ones do not offer.
+- **Apache License 2.0** ([LICENSE-APACHE-2.0](LICENSE-APACHE-2.0)).
 
-Pick one; the open-source options need no purchase or approval. The names of the upstream
-projects this project talks to (Mistral, Vibe, DeepSeek Harness, ACP) belong to their
-owners and are used only descriptively.
+Both options are complete and free on their own terms: no purchase, no approval,
+no paperwork. Apache-2.0 is the better fit for corporate redistribution — besides
+the broad copyright license, it grants a patent license (section 3) that terminates
+if you initiate patent litigation against the copyright holder; MIT is the more
+permissive of the two, with no express patent grant and no NOTICE file.
+
+Support, warranties and indemnification are not granted by either license. They are
+a separate agreement with the copyright holder, not a third license option.
+
+The names of the upstream projects this project talks to (Mistral, Vibe, DeepSeek
+Harness, ACP) belong to their owners and are used only descriptively.
 
 ## Security
 
